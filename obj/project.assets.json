@@ -8913,19 +8913,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Carlo\\.nuget\\packages\\": {}
+    "C:\\Users\\felix\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carlo\\OneDrive\\Escritorio\\net8\\pr_api\\ApiEmpresa.csproj",
+      "projectUniqueName": "C:\\Users\\felix\\Desktop\\net_8 Original\\net_8 - Original\\ApiEmpresa.csproj",
       "projectName": "ApiEmpresa",
-      "projectPath": "C:\\Users\\Carlo\\OneDrive\\Escritorio\\net8\\pr_api\\ApiEmpresa.csproj",
-      "packagesPath": "C:\\Users\\Carlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carlo\\OneDrive\\Escritorio\\net8\\pr_api\\obj\\",
+      "projectPath": "C:\\Users\\felix\\Desktop\\net_8 Original\\net_8 - Original\\ApiEmpresa.csproj",
+      "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\felix\\Desktop\\net_8 Original\\net_8 - Original\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Carlo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\felix\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
